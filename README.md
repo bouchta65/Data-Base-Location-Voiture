@@ -1,6 +1,6 @@
 # Base de Données : Location de Voitures
 
-Ce projet implémente une base de données MySQL pour la gestion d'une agence de location de voitures. Il contient les structures et données nécessaires pour gérer les voitures, les clients et les contrats de location.
+Une base de données MySQL pour la gestion d'une agence de location de voitures. Il contient les structures et données nécessaires pour gérer les voitures, les clients et les contrats de location.
 
 ## Structure de la Base de Données
 
