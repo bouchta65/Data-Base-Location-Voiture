@@ -37,3 +37,4 @@ Cette table gère les contrats de location.
   - `date_debut` : Date de début de la location.
   - `date_fin` : Date de fin de la location.
   - `Duree` : Durée de la location en jours.
+
